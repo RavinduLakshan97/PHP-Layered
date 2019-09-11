@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="layerednew" deleteMissingItems="true" createEmptyFolders="true">
+    <serverData>
+      <paths name="layerednew">
+        <serverdata>
+          <mappings>
+            <mapping deploy="layerednew" local="$PROJECT_DIR$" web="/layerednew" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
